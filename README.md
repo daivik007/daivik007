@@ -8,9 +8,9 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 <!-- - 🔭 I’m currently building.-->
-- 🌱 I’m currently learning more about AI and LLMs.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
+- 🌱 I’m currently learning Python through CS50P.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@Zephyryt07).
 - 🤔 I’m looking for help with my side projects.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about Adobe Premiere Pro and Photoshop.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
+- ⚡ Fun fact: I edit videos.
