@@ -6,8 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdaivik007%2Fdaivik007%2F&countColor=%23263759)
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
-<!-- - 🔭 I’m currently building.-->
+- 😄 Pronouns: He/His <!-- - 🔭 I’m currently building.-->
 - 🌱 I’m currently learning Python through CS50P.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@Zephyryt07).
 - 🤔 I’m looking for help with my side projects.
