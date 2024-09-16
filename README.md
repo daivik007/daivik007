@@ -4,14 +4,16 @@
          width="45" /> I'm Daivik Trivedi</h1>
 
 # 💫 About Me:
-- 😄 Pronouns: He/His <!-- - 🔭 I’m currently building.--><br>
-- 🌱 I’m currently learning Python through CS50P.<br>
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@Zephyryt07).<br>
-- 🤔 I’m looking for help with my side projects.<br>
-- 💬 Ask me about Adobe Premiere Pro and Photoshop.<br>
-- 📫 How to reach me: Check social links below.<br>
-- ⚡ Fun fact: I edit videos.
-
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently installing custom rom and rooting Galaxy M31
+- 🌱 I’m currently learning Python through CS50P
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@Zephyryt07)
+- 🤔 I’m looking for help with my side projects
+- 💬 Ask me about Adobe Premiere Pro, Photoshop and Python
+- 📫 How to reach me: Check social links below
+- ⚡ Fun fact: I edit videos
+- 💿: Windows 10 and Arch linux on dual boot
+- 🖥️: Lenovo Ideapad S145 R5 version
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daivikk.07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/daivik07) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Daivik07) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/daivik07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zephyryt07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyryt07) 
