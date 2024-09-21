@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently installing custom rom and rooting Galaxy M31
+- 🔭 I’m currently making portfolio for photo/video editing
 - 🌱 I’m currently learning Python through CS50P
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@Zephyryt07)
 - 🤔 I’m looking for help with my side projects
