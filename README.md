@@ -6,23 +6,22 @@
 # 💫 About Me:
 
 - 🏫 Student at VIT Vellore pursuing B.Tech in ECE
-- 🔭 I’m currently making portfolio for photo/video editing
-- 🌱 I’m currently learning Python through CS50P
-- 👯 I’m looking to work as a Freelancer
-- 💬 Ask me about Adobe Premiere Pro, Photoshop and Python
+- 💬 Ask me about Python, Editing and UI-UX
 - 📫 How to reach me: Check social links below
-- ⚡ Fun fact: I edit videos
+- ⚡ Fun fact: I love lame jokes
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daivikk.07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/daivik07) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Daivik07) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/daivik07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zephyryt07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyryt07) ![Static Badge](https://img.shields.io/badge/Discord-purple?logo=Discord&link=https%3A%2F%2Fdiscord.com%2Finvite%2Ft9nTjQxMvT)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daivikk.07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zephyryt07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyryt07) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daivik-trivedi-0b2a8b336/)
 
 # 💻 Tech Stack:
 ## Programming Stuff:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Static Badge](https://img.shields.io/badge/Figma-black?logo=Figma)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ## Creative Stuff:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Static Badge](https://img.shields.io/badge/OBS%20Studio-black?logo=OBS%20Studio) ![Static Badge](https://img.shields.io/badge/Audacity-yellow?logo=Audacity) ![Static Badge](https://img.shields.io/badge/Behance-black?logo=Behance)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Static Badge](https://img.shields.io/badge/OBS%20Studio-black?logo=OBS%20Studio) ![Static Badge](https://img.shields.io/badge/Audacity-yellow?logo=Audacity) [![Static Badge](https://img.shields.io/badge/Behance-black?logo=Behance)](https://behance.net/daiviktrivedi) ![Static Badge](https://img.shields.io/badge/Figma-black?logo=Figma) ![Static Badge](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&link=https%3A%2F%2Fdribbble.com%2Fdaivik_07)
+
 ## ECE Stuff:
-![Static Badge](https://img.shields.io/badge/Multisim-indigo?style=flat&logo=multisim) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Static Badge](https://img.shields.io/badge/LTSpice-red?logo=LTSpice)
+![Static Badge](https://img.shields.io/badge/Multisim-indigo?style=flat&logo=multisim) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Static Badge](https://img.shields.io/badge/LTSpice-red?logo=LTSpice) ![Static Badge](https://img.shields.io/badge/MATLAB-green)
+
 
 
 # 📊 GitHub Stats:
