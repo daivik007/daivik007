@@ -11,24 +11,27 @@
 - 📫 How to reach me: Check social links below
 - ⚡ Fun fact: I love lame jokes
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daivikk.07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zephyryt07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyryt07) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daivik-trivedi-0b2a8b336/)
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daivikk.07) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Zephyryt07) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Zephyryt07) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daivik-trivedi-0b2a8b336/)
 
 # 💻 Tech Stack:
-## Coding Stuff:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) ![Static Badge](https://img.shields.io/badge/Multisim-indigo?style=flat&logo=multisim) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Static Badge](https://img.shields.io/badge/LTSpice-red?logo=LTSpice) ![Static Badge](https://img.shields.io/badge/MATLAB-green)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#) ![Multisim](https://img.shields.io/badge/Multisim-indigo?style=for-the-badge&logo=multisim) ![LTSpice](https://img.shields.io/badge/LTSpice-red?style=for-the-badge&logo=LTSpice) ![MATLAB](https://img.shields.io/badge/MATLAB-green?style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Media Encoder](https://img.shields.io/badge/Adobe%20Media%20Encoder-9999FF?style=for-the-badge&logo=Adobe%20Media%20Encoder&logoColor=white) ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=OBS%20Studio&logoColor=white) 
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-00E4BB?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![HandBrake](https://img.shields.io/badge/HandBrake-D52B1E?style=for-the-badge&logo=HandBrake&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## Creative Stuff:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Static Badge](https://img.shields.io/badge/OBS%20Studio-black?logo=OBS%20Studio) ![Static Badge](https://img.shields.io/badge/Audacity-yellow?logo=Audacity) [![Static Badge](https://img.shields.io/badge/Behance-black?logo=Behance)](https://behance.net/daiviktrivedi) ![Static Badge](https://img.shields.io/badge/Figma-black?logo=Figma) ![Static Badge](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&link=https%3A%2F%2Fdribbble.com%2Fdaivik_07)
+
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daivik007&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daivik007&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=daivik007&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=daivik007&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daivik007&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daivik007&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true)
 
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=daivik007&icon=0&color=6"/>
-</div>
+
+![](https://komarev.com/ghpvc/?username=daivik&color=green)
