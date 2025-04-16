@@ -29,8 +29,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daivik007&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daivik007&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=daivik007&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true)
-
 
 ![](https://komarev.com/ghpvc/?username=daivik&color=green)
