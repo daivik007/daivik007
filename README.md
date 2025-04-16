@@ -8,7 +8,6 @@
 - 🏫 Pursuing B.Tech in Electronics and Communication Engineering
 - 💻 A Video Editor, Graphics Designer and UI-UX Designer
 - 💬 Ask me about Python, Editing and UI-UX
-- 📫 How to reach me: Check social links below
 - ⚡ Fun fact: I love lame jokes
 
 # 🌐 Socials:
