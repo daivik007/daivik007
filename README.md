@@ -22,6 +22,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=daivik007&show_icons=true&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daivik007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=daivik007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![](https://komarev.com/ghpvc/?username=daivik&color=green)
